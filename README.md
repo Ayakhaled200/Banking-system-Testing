@@ -22,11 +22,11 @@ This repository contains the key project artifacts for the banking application. 
 ## 📋 Folder Structure
 
 /docs
-SRS_V1.pdf
+   SRS_V1.pdf
 /testcases
-Test_Cases_V1.xlsx
+   Test_Cases_V1.xlsx
 /bugs
-Bug_Tracking_V1.xlsx
+   Bug_Tracking_V1.xlsx
 
 ---
 
